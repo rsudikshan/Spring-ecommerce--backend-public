@@ -1,5 +1,9 @@
 **RESTful APIs for ecommerce**
 
+
+- Fully stateless
+
+
 - Handled Image Uploads
 
 
