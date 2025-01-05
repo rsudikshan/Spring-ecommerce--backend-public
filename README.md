@@ -1,3 +1,9 @@
-#RESTful APIs for ecommerce backend 
-Handled Image Uploads
-Jwt Authentication
+**RESTful APIs for ecommerce**
+
+- Handled Image Uploads
+
+
+- Jwt Authentication
+
+
+- Role based authorization
